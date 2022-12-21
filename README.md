@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Martires-V.
-# 
-- I am Mártires Valdez
-- I am immersed in the world of web development 
-- I am currently learning React and flutter
+# Martires-Valdez
+- 🙋🏻‍♂️ I am Mártires Valdez
+- 👨🏻‍💻 I am immersed in the world of web development 
+- 🧑🏻‍🚀 I am currently learning React and flutter
