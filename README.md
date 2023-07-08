@@ -1,4 +1,4 @@
-### console.log("Hello World👋🏻")
+### Print("Hello World👋🏻")
 
 <!--
 **Sonny217/Sonny217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
