@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🙋🏻‍♂️ I am Mártires Valdez
-- 👨🏻‍💻 I am immersed in the world of web development🐳
+- 👨🏻‍💻 I am immersed in the world of software development.🐳
 - 🧑🏻‍🚀 I am currently learning python🍀
